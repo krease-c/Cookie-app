@@ -27,7 +27,7 @@ ADMIN_PAGE = """
 <head><title>Admin</title></head>
 <body>
     <h2>Welcome, admin!</h2>
-    <p>Here is your flag: <b>{{ flag }}</b></p>
+    <p>Here is your flag: <b>{{ flag{cookie_monster_strikes_again} }}</b></p>
 </body>
 </html>
 """
